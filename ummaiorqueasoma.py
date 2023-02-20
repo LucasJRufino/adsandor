@@ -1,4 +1,4 @@
-##Escreva um programa que peça ao usuário inserir três números e, em seguida, determine se um dos três números é maior que a soma dos outros dois.
+## Escreva um programa que peça ao usuário inserir três números e, em seguida, determine se um dos três números é maior que a soma dos outros dois.
 x = int(input("Insira o primeiro número: "))
 y = int(input("Insira o segundo número: "))
 z = int(input("Insira o terceiro número: "))
